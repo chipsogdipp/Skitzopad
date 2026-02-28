@@ -3,3 +3,4 @@
 On this Github page I will document the improvements and changes I have made, and will make to my Thinkpad T480.
 
 [Hardware] 
+Most of the Thinkpads' software is still stock, with the i5-8350U processor, meaning no MX-150 graphics card. Upgrading is a possibility, but I don't see it as worth the hassle. At least not yet
