@@ -16,13 +16,14 @@ In short, I want to demystify the apparent black magic that makes computers work
 
 **[Hardware]** 
 
-(Note: This laptop is an ongoing experimental platform-specs are subject to upgrades and changes as I learn and iterate.)
+(Note: This is a Lenovo Thinkpad T480 serving as an ongoing experimental platform-specs are subject to upgrades and changes as I learn and iterate.)
 
 * Display: 14", 1920x1080@60Hz
-* CPU: Intel i5-8350U, 4 cores and 8 threads @ 3.6 GHz
-* GPU: Intel UHD Graphics 620 @ 1.1 GHz (integrated)
+* CPU: Intel i5-8350U, 4 cores / 8 threads turbo up to 3.6 GHz
+* GPU: Intel UHD Graphics 620 (integrated, up to ~1.1 GHz)
 * RAM: 32GB DDR4
 * Storage: 914 GB SATA SSD.
+
 
 
 **[Firmware]**
