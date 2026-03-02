@@ -1,4 +1,4 @@
-# Skizopad
+# Skitzopad
 
 On this Github page I will document the improvements and changes I have made, and will make to my Thinkpad T480. This will be an ever growing list, as I experiment and learn new things.
 
