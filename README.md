@@ -34,9 +34,10 @@ In short, I want to demystify the apparent black magic that makes computers work
 
 **[Setbacks]**
 
-I am personally familiar with modification of general/common hardware, as of writing this section I've had no issues. 
-(Note: I haven't made any difficult hardware changes such as the screen, as my Thinkpad already came with a good/decent screen.)
+I am personally familiar with modification of general/common hardware, and so far I've had no major issues.
+(Note: I haven't made any difficult hardware swaps such as the screen, as my Thinkpad already came with a good IPS panel.)
 
-As for Firmware, the first major roadblock personally was the poor official documentation. I found it difficult to be certain of what exactly had to be done and in what order. 
+As for firmware, my first major roadblock was the official documentation. It's fragmented across multiple pages, dense with technical assumptions, and hard to follow in sequence, for instance, figuring out exactly when to dump/backup the stock flash, or what "injecting vendor files" actually entailed (inserting neutered Intel ME blobs, applying deguard for Boot Guard bypass, and running build scripts or manual tools on release ROMs). Despite having a dedicated page for the T480, it somehow made things more uncertain: it bombarded me with warnings, prerequisites, and cross-references to other guides (like ivy_has_common.html for vendor insertion, spi.html for flashing basics, and separate Thunderbolt handling), without a clear, linear checklist tying everything together for this specific model. I constantly second-guessed the order and whether I'd missed a critical step.
+
 For the second roadblock it was the programmer, for firmware modification you need a programmer and the hardware to facilitate changes to the relevant chips. 
 When I came to the point of flashing the chip I realized that I don't currently have the tools to do so. As far as I know there are no local retailers for those tools so I got a bit stuck, not knowing what I should order.
