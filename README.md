@@ -31,3 +31,12 @@ In short, I want to demystify the apparent black magic that makes computers work
 
 
 **[Software]**
+
+**[Setbacks]**
+
+I am personally familiar with modification of general/common hardware, as of writing this section I've had no issues. 
+(Note: I haven't made any difficult hardware changes such as the screen, as my Thinkpad already came with a good/decent screen.)
+
+As for Firmware, the first major roadblock personally was the poor official documentation. I found it difficult to be certain of what exactly had to be done and in what order. 
+For the second roadblock it was the programmer, for firmware modification you need a programmer and the hardware to facilitate changes to the relevant chips. 
+When I came to the point of flashing the chip I realized that I don't currently have the tools to do so. As far as I know there are no local retailers for those tools so I got a bit stuck, not knowing what I should order.
