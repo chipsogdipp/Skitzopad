@@ -29,9 +29,10 @@ In short, I want to demystify the apparent black magic that makes computers work
 **[Firmware]**
 
 Modification of firmware was the reason I started documenting the changes. I discovered Libreboot (https://libreboot.org/) whose emphasis on software freedom and user control closely aligned with my own views. As a result I felt the need to replace the factory firmware with Libreboot.
-Switching the BIOS for the Libreboot alternative is in my mind an act of independence from corporations, a subtle middle finger to their overreach and eavesdropping.
+Switching the BIOS for the Libreboot alternative was not only a technical exercise but a small act of independence from increasingly opaque computing platforms and a step towards understanding and controlling the software that runs on my hardware. 
+In a world where users are expected to trust systems they don't understand and cannot inspect, Libreboot offers a refreshing alternative.
 
-As for the hardware, the two chips that are re-written are the **Winbond W25Q128JVSJQ** and the **Winbond W25Q80DV**, they have the same pinouts, so no changes in the wiring were required for writing to the chips. 
+The modification so far involves two flash chips on the motherboard: the **Winbond W25Q128JVSJQ** and the **Winbond W25Q80DV**. Since they have the same pinouts, no changes in the wiring were required for flashing to the chips. 
 
 **[Software]**
 
