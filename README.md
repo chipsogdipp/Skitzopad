@@ -4,7 +4,7 @@
 
 On this Github page I will document the improvements and changes I have made, and will make to my Thinkpad T480. This will be an ever growing list, as I experiment and learn new things.
 
-**[Why?]**
+## [Why?]
 
 Computers have always struck me as a masterpiece of refined, principled logic. An engineering puzzle, one I've longed to solve through hands-on tinkering, but never fully grasped.  That's the core reason behind these laptop upgrades and improvements: I want to understand computing from the silicon upward, not merely how to operate it. Sticking with one known-good set of hardware gives me the clean, predictable canvas I need to experiment without endless fights against drivers or abstraction layers.
 
@@ -16,7 +16,7 @@ My goals are:
 
 In short, I want to demystify the apparent black magic that makes computers work. I want to understand what makes a system tick, not just GUIs or Python scripts. This project is about transforming "it just works" to "I know exactly why and how it works." 
 
-**[Hardware]** 
+## [Hardware]
 
 (Note: This is a Lenovo Thinkpad T480 serving as an ongoing experimental platform-specs are subject to upgrades and changes as I learn and iterate.)
 
@@ -28,7 +28,7 @@ In short, I want to demystify the apparent black magic that makes computers work
 
 
 
-**[Firmware]**
+## [Firmware]
 
 Modification of firmware was the reason I started documenting the changes. I discovered Libreboot (https://libreboot.org/) whose emphasis on software freedom and user control closely aligned with my own views. As a result I felt the need to replace the factory firmware with Libreboot.
 Switching the BIOS for the Libreboot alternative was not only a technical exercise but a small act of independence from increasingly opaque computing platforms and a step towards understanding and controlling the software that runs on my hardware. 
@@ -36,9 +36,9 @@ In a world where users are expected to trust systems they don't understand and c
 
 The modification so far involves two flash chips on the motherboard: the **Winbond W25Q128JVSJQ** and the **Winbond W25Q80DV**. Since they have the same pinouts, no changes in the wiring were required for flashing to the chips. 
 
-**[Software]**
+## [Software]
 
-**[Setbacks]**
+## [Setbacks]
 
 I am personally familiar with modification of general/common hardware, and so far I've had no major issues.
 (Note: I haven't made any difficult hardware swaps such as the screen, as my Thinkpad already came with a good IPS panel.)
