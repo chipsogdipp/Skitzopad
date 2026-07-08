@@ -22,13 +22,16 @@ In short, I want to demystify the apparent black magic that makes computers work
 * CPU: Intel i5-8350U, 4 cores / 8 threads turbo up to 3.6 GHz
 * GPU: Intel UHD Graphics 620 (integrated, up to ~1.1 GHz)
 * RAM: 32GB DDR4
-* Storage: 914 GB SATA SSD.
+* Storage: 1.8 TB NVME SSD.
 
 
 
 **[Firmware]**
 
+Modification of firmware was the reason I started documenting the changes. I discovered Libreboot (https://libreboot.org/) whose emphasis on software freedom and user control closely aligned with my own views. As a result I felt the need to replace the factory firmware with Libreboot.
+Switching the BIOS for the Libreboot alternative is in my mind an act of independence from corporations, a subtle middle finger to their overreach and eavesdropping.
 
+As for the hardware, the two chips that are re-written are the **Winbond W25Q128JVSJQ** and the **Winbond W25Q80DV**, they have the same pinouts, so no changes in the wiring were required for writing to the chips. 
 
 **[Software]**
 
